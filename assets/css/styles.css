@@ -205,8 +205,12 @@ img {
 
 .nav__logo,
 .nav__toggle {
-    color: var(--title-color);
-    font-weight: var(--font-medium);
+    height: 50px;
+    width: 50px;
+    padding: 7px;
+    
+    /* color: var(--title-color);
+    font-weight: var(--font-medium); */
 }
 
 .nav__logo:hover {
